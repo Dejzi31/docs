@@ -1,4 +1,4 @@
----
+pull request--
 title: Maintaining ownership continuity for your organization
 intro: Organizations can have more than one organization owner to avoid lapses in ownership.
 redirect_from:
@@ -41,3 +41,4 @@ Organization owners have full administrative access to the organization. {% data
   ![Drop-down menu with option to remove members](/assets/images/help/teams/user-bulk-management-options.png)
 6. Select a new role for the person or people, then click **Change role**.
   ![Radio buttons with owner and member roles and Change role button](/assets/images/help/teams/select-and-confirm-new-role-bulk.png)
+CHANGELOG.md
